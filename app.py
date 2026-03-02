@@ -15,8 +15,12 @@ This project demonstrates:
 - Cooperative V2V Battery Assist
 - Smart Traffic Signal Interaction
 
-Use the sidebar to navigate between pages:
-- Simulation
-- Results & Analysis
-- Implementation
+
+
+
+
+- Gayini D
+- Aishwarya Vijayakumar
+- Suryan E
+- Anuj C S
 """)
