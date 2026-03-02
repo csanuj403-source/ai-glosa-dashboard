@@ -18,7 +18,7 @@ This project demonstrates:
 
 
 
-## TEAM MEMBERS
+ TEAM MEMBERS:
 
 - Gayini D
 - Aishwarya Vijayakumar
